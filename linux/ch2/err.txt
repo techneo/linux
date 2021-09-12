@@ -1,0 +1,1 @@
+ls: cannot access '/fgh': No such file or directory
